@@ -1,3 +1,3 @@
 # MSMLProject
 Fake News Detection Project
-Authors: Anshuman and Kaushik Kapo Raghavendra
+This is Anshuman's branch. I am a Master's Student at WSU
